@@ -1,0 +1,6 @@
+{
+	"appId": "com.jcedenio.notificaionesPush",
+	"appName": "notificacionesPush",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12867729029",
+    "project_id": "notificaiones-push-2177a",
+    "storage_bucket": "notificaiones-push-2177a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12867729029:android:6900a3cd01500a541d1bec",
+        "android_client_info": {
+          "package_name": "com.jcedenio.notificaionesPush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12867729029-r3uk3at8q1rosak5h2oq3qf9nucbvop8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz4mEaa-SDe0JTmRGFbYmC64S7lWDa5fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12867729029-r3uk3at8q1rosak5h2oq3qf9nucbvop8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
